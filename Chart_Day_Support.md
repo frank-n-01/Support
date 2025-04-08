@@ -1,15 +1,17 @@
 # Chart Day
 
-Visualize your daily data in charts. Create and manage your charts intuitively.
+Visualize your daily data in charts.
+Create and manage your charts interactively and intuitively.
 
-- Create charts and organize them in folders.
-- Input and edit data for each day. Data can be integer or decimal.
-- Display data as simple numbers or times (hours, minutes, seconds).
-- Write a note on each day's data.
-- If you have a goal, set a target line on the chart.
-- See statistics for the chart data: sum, count, min, max, mean, median.
-- Switch between line and bar chart display modes with the same data.
-- Add a chart widget to your home screen and view recent data on the chart.
+- Input data by day. You can also display data by week or month.
+- If you have a goal, set a target line.
+- Statistics: sum, count, min, max, mean, median.
+- Add widgets to your home screen and view recent data.
+- Tap the widget to quickly access the chart.
 - Sync your chart data with iCloud.
+- Export chart data as a CSV file.
 
-Please see the help page in the app for a detailed manual.
+■ ChartDay Unlimited (In-App Purchase)
+
+Once you purchase the Unlimited version, you can create an unlimited number of charts.
+You can use it for free up to 100 times (one data addition to any chart is counted as one time).
