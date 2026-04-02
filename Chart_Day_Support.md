@@ -1,40 +1,32 @@
-# ChartDay
-
 Turn your daily habits, routines, and stats into beautiful, interactive charts.
 Track anything visually, intuitively, and effortlessly.
 
-## Key Features
+◉ Key Features
+・Daily Tracking Made Simple
+　Enter your data by day, and view insights by week or month at a glance.
 
-- **Daily Tracking Made Simple**
-  Enter your data by day, and view insights by week or month at a glance.
+・Set Goals & Stay Motivated
+　Add target lines or ranges to visualize your objectives directly on the chart.
 
-- **Set Goals & Stay Motivated**
-  Add target lines or ranges to visualize your objectives directly on the chart.
+・Instant Stats
+　Get automatic calculations: sum, count, min, max, mean, and median.
 
-- **Instant Stats**
-  Get automatic calculations: sum, count, min, max, mean, and median.
+・Tags & Filtering
+　Create tags, attach them to entries, and filter charts by Any/All tags.
 
-- **Tags & Filtering**
-  Create tags, attach them to entries, and filter charts by Any/All tags.
+・Widgets for Quick Access
+　Add widgets to your Home Screen to monitor your progress without opening the app.
+　(Tap the widget to open your chart and enter data instantly.)
 
-- **Widgets for Quick Access**
-  Add widgets to your Home Screen to monitor your progress without opening the app.
-  Tap the widget to open your chart and enter data instantly.
+・iCloud Sync
+　Keep your charts safe and in sync across your devices.
 
-- **iCloud Sync**
-  Keep your charts safe and in sync across your devices.
+・Data Export
+　Export your chart data as a CSV file anytime.
 
-- **Data Export**
-  Export your chart data as a CSV file anytime.
+・Private & Ad-Free
+　No ads, no tracking, and no data collection.
 
-- **Private & Ad-Free**
-  No ads, no tracking, and no data collection.
-
-## ChartDay Unlimited (In-App Purchase)
-
+◉ ChartDay Unlimited (In-App Purchase)
 Unlock unlimited chart creation with a one-time upgrade.
-Try it for free — add up to 100 data points before deciding.
-
-## Contact
-
-If you have any questions or feedback, please open an issue on [GitHub](https://github.com/frank-n-01/Support/issues).
+Try it for free—add up to 100 data points before deciding.
