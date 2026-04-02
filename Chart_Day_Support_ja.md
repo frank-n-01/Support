@@ -1,3 +1,5 @@
+[App Storeでダウンロード](https://apps.apple.com/app/chartday/id6446491718)
+
 毎日の習慣や記録を、美しく直感的なチャートで可視化。
 あらゆるデータを手軽に管理できます。
 

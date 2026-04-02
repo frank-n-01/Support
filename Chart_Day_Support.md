@@ -1,3 +1,5 @@
+[Download on the App Store](https://apps.apple.com/app/chartday/id6446491718)
+
 Turn your daily habits, routines, and stats into beautiful, interactive charts.
 Track anything visually, intuitively, and effortlessly.
 
