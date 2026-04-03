@@ -1,38 +1,38 @@
 [Download on the App Store](https://apps.apple.com/app/chartday/id6446491718)
 
-Turn your daily habits, routines, and stats into beautiful, interactive charts.
-Track anything visually, intuitively, and effortlessly.
+Track your daily habits, health, fitness, and more — visualized in beautiful, interactive charts.
 
 ◉ Key Features
-・Multi-Entry Mode
-　Record multiple data points per day with timestamps on a single chart.
-　Perfect for tracking activities like walks, meals, or workouts throughout the day.
-
 ・Daily Tracking Made Simple
-　Enter your data by day, and view insights by week or month at a glance.
-
-・Set Goals & Stay Motivated
-　Add target lines or ranges to visualize your objectives directly on the chart.
+　Enter a number each day and watch your progress unfold as a chart.
+　View trends by week or month at a glance.
 
 ・Instant Stats
-　Get automatic calculations: sum, count, min, max, mean, and median.
+　Automatic calculations for sum, count, min, max, mean, and median — always up to date.
+
+・Set Goals & Stay Motivated
+　Add a target line or range directly on your chart to keep your objectives in sight.
 
 ・Tags & Filtering
-　Create tags, attach them to entries, and filter charts by Any/All tags.
+　Organize entries with custom tags and filter your chart by any combination.
 
-・Widgets for Quick Access
-　Add widgets to your Home Screen to monitor your progress without opening the app.
-　(Tap the widget to open your chart and enter data instantly.)
+・Home Screen Widgets
+　Check your latest data without opening the app.
+　Tap the widget to jump straight to data entry.
 
 ・iCloud Sync
-　Keep your charts safe and in sync across your devices.
+　Your charts stay safe and in sync across all your devices.
+
+・Multi-Entry Mode
+　Record multiple data points per day with timestamps on a single chart.
+　Ideal for tracking walks, meals, workouts, or anything that happens more than once a day.
 
 ・Data Export
-　Export your chart data as a CSV file anytime.
+　Export any chart as a CSV file whenever you need it.
 
 ・Private & Ad-Free
-　No ads, no tracking, and no data collection.
+　No ads, no tracking, no data collection. Your data belongs to you.
 
 ◉ ChartDay Unlimited (In-App Purchase)
-Unlock unlimited chart creation with a one-time upgrade.
-Try it for free—add up to 100 data points before deciding.
+Unlock unlimited chart creation with a one-time purchase.
+Try it free first — add up to 100 data points before deciding.
