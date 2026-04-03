@@ -4,6 +4,10 @@ Turn your daily habits, routines, and stats into beautiful, interactive charts.
 Track anything visually, intuitively, and effortlessly.
 
 ◉ Key Features
+・Multi-Entry Mode
+　Record multiple data points per day with timestamps on a single chart.
+　Perfect for tracking activities like walks, meals, or workouts throughout the day.
+
 ・Daily Tracking Made Simple
 　Enter your data by day, and view insights by week or month at a glance.
 
