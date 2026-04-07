@@ -14,6 +14,12 @@ Support pages and privacy policies for my iOS apps.
 
 ### ChartDay
 
+<img width="1135" height="656" alt="chart_day_review_1" src="https://github.com/user-attachments/assets/41c0775a-3718-42d1-b100-a8ba6c8e289b" />
+
+<img width="1123" height="764" alt="chart_day_review_2" src="https://github.com/user-attachments/assets/69853a69-9153-4fea-a40a-6f4bc301e9cb" />
 
 ### Mirror Talk
 
+<img width="1154" height="710" alt="mirror_talk_review_1" src="https://github.com/user-attachments/assets/6a763ea4-187c-4b9c-880a-6694c4f3772d" />
+
+<img width="1141" height="430" alt="mirror_talk_review_2" src="https://github.com/user-attachments/assets/576b6b67-591b-4db5-8f6e-d2aca7c67153" />
